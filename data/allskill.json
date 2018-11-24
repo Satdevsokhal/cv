@@ -1,43 +1,23 @@
 [
     {
         "skill" : "C/C++",
-        "percent" : 75
-    },
-    {
-        "skill" : "Java Core",
-        "percent" : 85
-    },
-    {
-        "skill" : "C#",
         "percent" : 60
     },
     {
+        "skill" : "Java Core",
+        "percent" : 75
+    },
+    {
         "skill" : "HTML",
-        "percent" : 90
+        "percent" : 50
     },
     {
         "skill" : "CSS",
-        "percent" : 90
+        "percent" : 60
     },
     {
         "skill" : "Javascript",
-        "percent" : 90
-    },
-    {
-        "skill" : "React JS",
-        "percent" : 80
-    },
-    {
-        "skill" : "React Native",
-        "percent" : 70
-    },
-    {
-        "skill" : "JQuery",
-        "percent" : 80
-    },
-    {
-        "skill" : "AJAX",
-        "percent" : 95
+        "percent" : 50
     },
     {
         "skill" : "PHP",
@@ -45,34 +25,14 @@
     },
     {
         "skill" : "SQL",
-        "percent" : 75
-    },
-    {
-        "skill" : "Blender",
         "percent" : 60
-    },
-    {
-        "skill" : "Unity Game Engine",
-        "percent" : 40
     },
     {
         "skill" : "Auto CAD",
-        "percent" : 60
-    },
-    {
-        "skill" : "Bootstrap",
-        "percent" : 80
-    },
-    {
-        "skill" : "P5.JS",
-        "percent" : 80
-    },
-    {
-        "skill" : "Processing",
-        "percent" : 60
+        "percent" : 40
     },
     {
         "skill" : "Android",
-        "percent" : 40
+        "percent" : 70
     }
 ]
