@@ -1,18 +1,14 @@
 [
     {
         "language" : "English",
-        "percent" : 80
-    },
-    {
-        "language" : "Nepali",
-        "percent" : 100
+        "percent" : 60
     },
     {
         "language" : "Hindi",
-        "percent" : 80
+        "percent" : 100
     },
     {
         "language" : "Punjabi",
-        "percent" : 40
+        "percent" : 100
     }
 ]
